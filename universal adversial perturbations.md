@@ -4,7 +4,7 @@ universal adversial perturbations<br>
 ---
 2.用了什么方法？<br> 
 ---
-<img width="150" height="150" src="https://github.com/Ziwen-He/paper-read/blob/master/universal.png"/><br>
+<img width="750" height="750" src="https://github.com/Ziwen-He/paper-read/blob/master/universal.png"/><br>
 
 3.核心贡献是什么？<br>  
 ---
